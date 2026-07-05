@@ -1,0 +1,6 @@
+<svg width="100%" height="8" viewBox="0 0 1000 8" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <!-- Thin gray line -->
+  <line x1="0" y1="4" x2="1000" y2="4" stroke="#333" stroke-width="1" />
+  <!-- Red notch on the right -->
+  <polygon points="800,4 820,0 820,8" fill="#c0392b" />
+</svg>
