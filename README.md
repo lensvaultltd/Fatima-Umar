@@ -52,6 +52,15 @@ As the founder of **Lens Vault**, I bridge the gap between complex cryptographic
 <tr>
 <td width="50%" valign="top">
 
+**AI Security Research**
+- [**prompt-injection-detector**](https://github.com/lensvaultltd/prompt-injection-detector)<br/>*Detecting prompt injection attacks against financial AI assistants.*
+- [**llm-jailbreak-evaluator**](https://github.com/lensvaultltd/llm-jailbreak-evaluator)<br/>*Evaluating jailbreak resistance of Large Language Models.*
+- [**ai-phishing-benchmark**](https://github.com/lensvaultltd/ai-phishing-benchmark)<br/>*AI-assisted phishing detection benchmark.*
+- [**autonomous-soc-agent**](https://github.com/lensvaultltd/autonomous-soc-agent)<br/>*Autonomous SOC agent experiments.*
+
+</td>
+<td width="50%" valign="top">
+
 **Financial & Crypto Security**
 - [**finsec-fraud-detection-api**](https://github.com/lensvaultltd/finsec-fraud-detection-api)<br/>*API service designed to detect and flag fraudulent financial transactions.*
 - [**defi-smart-contract-auditor**](https://github.com/lensvaultltd/defi-smart-contract-auditor)<br/>*Automated auditing tool for analyzing DeFi smart contracts for vulnerabilities.*
